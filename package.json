@@ -1,0 +1,21 @@
+{
+  "name": "rxjsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --watch --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.3.2",
+    "ts-loader": "^5.0.0",
+    "typescript": "^3.0.3",
+    "webpack": "^4.17.2",
+    "webpack-dev-server": "^3.1.8"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.0"
+  }
+}
